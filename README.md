@@ -67,7 +67,7 @@ If you wish to serve the site from a different port:
 ## Acknowledgement
 
 Based on the work of @stemkoski for ThreeJS:
-http://stemkoski.github.io/Three.js/Bubble.html
+http://stemkoski.github.io/Three.js/Refraction.html
 
 ## License
 
